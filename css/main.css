@@ -64,6 +64,10 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
     height: 600px;
   }
 
+  .img-size-xxl{
+    width: 520px !important;
+  }
+
   .overflow-divy{
     overflow-y: auto; height: 220px;
   }
